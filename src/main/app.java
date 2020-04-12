@@ -9,6 +9,6 @@ class App{
 	public static void myMethod()
 	{
 		s.o.p("my method");	
-		s.o.p("my method 2");
+	        s.o.p("my method 2");
 	}
-}
+
