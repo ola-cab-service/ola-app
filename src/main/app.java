@@ -2,7 +2,7 @@ class App{
 
 	public static void main(String[] args)
 	{
-		s.o.p("hello world");	
+		s.o.p("hello world again");	
 	}
 	public static void myMethod()
 	{
