@@ -1,4 +1,5 @@
-first commit
-2nd commit from portal
-3rd change
-4th change
+ola app build and deployment steps
+maven steps
+docker build steps
+kubernate deployment steps
+git hub action to use end to end workflow or jenkins pipeline or azure
