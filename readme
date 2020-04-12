@@ -2,3 +2,4 @@ ola app build and deployment steps
 maven steps
 docker build steps
 kubernate deployment steps
+git hub action to use end to end workflow or jenkins pipeline or azure
